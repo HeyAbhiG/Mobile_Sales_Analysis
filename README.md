@@ -11,23 +11,28 @@
                                       is critical for tailoring customer engagement strategies and improving retention rates.
 
  ## Objective 
-- To utilize SQL queries for data cleaning and exploratory data analysis to ensure data quality and gain initial insights.
-- To identify high and low sales products to optimize inventory and tailor marketing efforts.
+- To solve business problems we have created interactive dashboard for data analysis which helps to decrease the reproting time.
+- To identify high and low sales Mobiles's to optimize inventory and tailor marketing efforts.
 - To segment customers based on their purchasing behavior for targeted marketing campaigns. Create Customer segments as per client requirements.
 - To analyze customer behaviour for insights on repeat purchases and loyalty, informing customer retention strategies.
 
 ## Steps:
 #### 1. Data Exploration and Cleaning:
+ 
 - **Record Count** : Determine the total_number of records in all the data_set.
 - **Customer Count**: Find out how many unique customers in the data_set.
 - **Category Count**: Identifies the different categories and their contribution on  Total_Sales.
 - **Price discrepancies**: Identify Price_discrepancies  of products on different table and Correct it 
 - **Null Count**: Identify the Null_values in different data_sets and handle it properly .
 
-### 2.Data Analysis 
+#### 2.Dax Calcualtion
+#### 3. Data Modelling
+#### 4.Dashboard/ Report Developement
+
+ 
 - We have solved a good number of reasearch questions as per our stake-holders/client discussion
 
-### 3. Findings
+### 5.Insight Generation 
 - **Customer Insights :**	Find out customer who repeating purchase and spending most in our site/stores so we can provide
                           them discount coupon and better service as their our most loyal customers. 
 - **High-Value Transactions:** Several transactions had a total sale amount greater than 1000, indicating premium purchases.
